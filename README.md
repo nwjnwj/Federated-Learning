@@ -1,4 +1,4 @@
-# Federated Learning
+# Federated Learning - AI solution toward privacy-preserving
 
 ## Part 1: Introduction
 * [Federated Learning Comic](https://federated.withgoogle.com/)
